@@ -1,4 +1,4 @@
-## RatingProduct & SortingReviewsin in Amazon
+## Rating Product & Sorting Reviewsin in Amazon
 
 ##### Business Problem:
 One of the most important problems in e-commerce is the correct calculation of the points given to the products after sales.
